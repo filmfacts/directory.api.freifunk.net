@@ -12,7 +12,7 @@
 	"auerbach": "https://mapdata.freifunk-vogtland.net/ffapi-AE.json",
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
 	"badgandersheim" : "https://wiki.freifunk.net/images/8/84/FreifunkBadGandersheim-api.json",
-	"badoeynhausen" : "http://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
+	"badoeynhausen" : "https://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
 	"badoldesloe" : "https://raw.githubusercontent.com/ffsh/api/master/badoldesloe.json",
 	"badreichenhall" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/badreichenhall.json",
 	"badsalzuflen": "http://api.freifunk-lippe.de/freifunk/ffapi.json",
